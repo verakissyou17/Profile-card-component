@@ -23,7 +23,7 @@ body {
   font-family: 'Kumbh Sans', sans-serif;
   background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
   background-repeat: no-repeat, no-repeat;
-    background-position: right 50vw bottom 40vh, left 50vw top 40vh;
+    background-position: right 52vw bottom 40vh, left 52vw top 40vh;
   background-color: var(--dark-cyan);
 }
 
